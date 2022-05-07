@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.pytest_cache
+.upm
+__pycache__
+.replit
+poetry.lock
